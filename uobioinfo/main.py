@@ -6,7 +6,8 @@ def say_something(phrase): # ... I'm giving up on you.
     print("testphrase1")
     print(phrase)
     print("testphrase2")
-
+    print("123456")
+>>>>>>> added message
 
 # --- Don't change anything below this line -------
 
