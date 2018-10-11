@@ -3,7 +3,9 @@ import argparse
 
 def say_something(phrase): # ... I'm giving up on you. 
     """Change this however you'd like!"""
+    print("testphrase1")
     print(phrase)
+    print("testphrase2")
 
 
 # --- Don't change anything below this line -------
